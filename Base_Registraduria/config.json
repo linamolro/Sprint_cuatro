@@ -1,0 +1,6 @@
+{
+    "servidor": "127.0.0.1",
+    "puerto": "8000",
+    "data-db-connection" : "mongodb+srv://linamolro:1234@baseregistraduria.0adjtnf.mongodb.net/test",
+    "name-db": "app-registraduria"
+}
